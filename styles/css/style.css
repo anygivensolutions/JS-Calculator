@@ -1,0 +1,83 @@
+body {
+  background-color: #051f04;
+  color: grey;
+}
+#row1 {
+  text-align: center;
+  background-color: #051f04;
+}
+
+input {
+  appearance:none;
+  background-color: transparent;
+  height: 50px;
+  width: 100%;
+  caret-color: yellow;
+  color:  white;
+  font-size: 1.5em;
+  text-align: right;
+  padding-left: 5px;
+  padding-right: 5px;
+  box-shadow: none;
+  outline:none;
+  border-style: none;
+  border-bottom-color:  #FF6A0D;
+  border-bottom-style:  solid;
+}
+#one {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+#r1 {
+  float: left;
+}
+
+.btn {
+  width:  25%;
+}
+.btn2 {
+  width:  50%;
+}
+button {
+  font-size: 4em;
+  width:  100%;
+  height: 120px;
+  background-color: orange;
+  border-style:none;
+  border-left-style: solid;
+  border-top-style: solid;
+  border-left-color: black;
+  border-top-color: black;
+  border-width: thin;
+  outline:  none;
+  text-align: center;
+}
+button:hover {
+  color:  orange;
+  background-color: black;
+  border-style:none;
+  border-left-style: solid;
+  border-top-style: solid;
+  border-left-color: black;
+  border-top-color: black;
+  border-width: thin;
+  outline:  none;
+  text-align: center;
+}
+
+
+#ac {
+
+}
+
+#plusMin {
+
+}
+
+#percent {
+
+}
+
+#divide {
+
+}
